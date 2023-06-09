@@ -1,6 +1,6 @@
 ## Quiz HTML to VUe
-Nama    : Fajar Kurniawan
-Nim     : 21.11.4383
+Nama    : Fajar Kurniawan\
+Nim     : 21.11.4383\
 Kelas   :21IF08
 
 This template should help get you started developing with Vue 3 in Vite.
